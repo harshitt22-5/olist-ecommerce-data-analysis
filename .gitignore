@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Jupyter temporary files and checkpoints
+.ipynb_checkpoints/
+jupyter_runtime/
+
+# Local dataset files
+data/
+*.zip
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
