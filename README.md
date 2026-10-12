@@ -1,9 +1,12 @@
 # Brazilian E-Commerce Data Analysis
 
 ## Project Overview
-This project analyzes the Brazilian E-Commerce Public Dataset by Olist to explore sales performance, customer purchasing behaviour, product categories, delivery performance, and customer reviews.
 
-The goal is to turn raw e-commerce data into useful business insights that can support better operational and customer-experience decisions.
+This project explores the Brazilian E-Commerce Public Dataset by Olist to understand sales performance, customer purchasing behaviour, product category performance, delivery timeliness, and customer satisfaction.
+
+Using Python, Pandas, NumPy, Matplotlib, and Seaborn, I cleaned and combined multiple datasets, created analysis-ready metrics, and investigated business questions related to customer retention, delivered item value, and delivery performance.
+
+The objective was to turn raw e-commerce data into actionable business insights and identify opportunities to improve the customer experience and support data-informed business decisions.
 
 ## Business Questions
 - How does delivered sales value change over time?
@@ -37,7 +40,7 @@ The goal is to turn raw e-commerce data into useful business insights that can s
 - **Product category performance:** Health and beauty, watches and gifts, and bed, bath and table were among the leading categories by delivered item value.
 - **Operational opportunity:** The analysis highlights delivery timeliness and customer retention as areas worth investigating to improve the customer experience and encourage repeat purchasing.
   
-  ## Visual Insights
+## Visual Insights
 
 ### Customer Reviews and Delivery Timeliness
 ![Average Customer Rating by Delivery Timeliness](images/delivery_review_scores.png)
