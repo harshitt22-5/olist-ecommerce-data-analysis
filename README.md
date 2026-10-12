@@ -29,12 +29,14 @@ The goal is to turn raw e-commerce data into useful business insights that can s
 - Customer review-score analysis
 
 ## Key Findings
-- Delivered orders accounted for 96,478 orders in the dataset.
-- The on-time delivery rate was approximately 91.89% among orders with both actual and estimated delivery dates available.
-- Repeat customers represented a small share of delivered customers but had higher average payment value per customer than one-time customers.
-- Late-delivered orders had lower average review scores than on-time-delivered orders.
-- Health and beauty, watches and gifts, and bed, bath and table were among the leading categories by delivered item value.
 
+- **Delivery performance:** An estimated 91.89% of delivered orders with available delivery dates arrived on or before the estimated date.
+- **Customer retention:** Repeat customers represented approximately 3.00% of delivered customers but accounted for around 5.60% of delivered-order payment value.
+- **Customer spending:** Repeat customers had an average delivered-order payment value of approximately ₹308.59 per customer, compared with ₹160.76 for one-time customers.
+- **Customer experience:** Orders delivered late had a lower average review score (2.57/5) than orders delivered on time (4.29/5), indicating a strong association between delivery timeliness and customer satisfaction.
+- **Product category performance:** Health and beauty, watches and gifts, and bed, bath and table were among the leading categories by delivered item value.
+- **Operational opportunity:** The analysis highlights delivery timeliness and customer retention as areas worth investigating to improve the customer experience and encourage repeat purchasing.
+  
   ## Visual Insights
 
 ### Customer Reviews and Delivery Timeliness
