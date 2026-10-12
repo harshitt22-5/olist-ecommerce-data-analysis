@@ -35,6 +35,14 @@ The goal is to turn raw e-commerce data into useful business insights that can s
 - Late-delivered orders had lower average review scores than on-time-delivered orders.
 - Health and beauty, watches and gifts, and bed, bath and table were among the leading categories by delivered item value.
 
+  ## Visual Insights
+
+### Customer Reviews and Delivery Timeliness
+![Average Customer Rating by Delivery Timeliness](images/delivery_review_scores.png)
+
+### Product Category Performance
+![Top Product Categories by Delivered Item Value](images/top_product_categories.png)
+
 ## Project Files
 - `notebooks/ecommerce_analysis.ipynb` — notebook containing the analysis.
 - `data/` — local dataset files used by the notebook; raw data is not included in the public repository.
